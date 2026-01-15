@@ -1,0 +1,7 @@
+{
+  "name": "Zenith Health Tracker",
+  "description": "A comprehensive personal health and wellness dashboard for tracking activity, sleep, diet, and goals with a premium, modern aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
